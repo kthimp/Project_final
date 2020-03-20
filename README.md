@@ -2,11 +2,11 @@
 # Project_final name : Food By Me.
 
 --> 1. หน้าแรก
-- ทำการ login เพื่อเข้าสู่ระบบ (โดยใช้รหัสนิสิตของตัวเอง คือ 60160338)
+- ทำการ login เพื่อเข้าสู่ระบบ (โดยใช้รหัสนิสิตของตัวเอง คือ 60160338) จากนั้นจะไปสู้หน้าเมนู
 ![alt text](https://user-images.githubusercontent.com/54229300/77187509-2d77f200-6b07-11ea-9855-e531a797d0bb.png)
 
---> 2. หน้าเมนู
-- login โดยใส่ username กับ password facebook ของตนเองลงไป
+--> 2. หน้าlogin facebook
+- login โดยใส่ username กับ password facebook ของตนเองลงไป และจากนั้นจะไปสู้หน้าเมนู
 ![alt text](https://user-images.githubusercontent.com/54229300/77187562-42ed1c00-6b07-11ea-9e5e-c5130ea39ef9.png)
 
 -->3. หน้าเมนู
@@ -19,4 +19,4 @@
 
 --> 5. หน้า detail
 - แสดงรายละเอียดอาหารที่เลือก
-![alt text](https://user-images.githubusercontent.com/54229300/77188332-6795c380-6b08-11ea-988a-5a4d9cdf0a3e.png
+![alt text](https://user-images.githubusercontent.com/54229300/77188332-6795c380-6b08-11ea-988a-5a4d9cdf0a3e.png)
